@@ -2,7 +2,7 @@ import "./DotLoader.css";
 const DOtLoader = () => {
   return (
     <div>
-      <div>DOtLoader</div>
+      <div className="space">DOtLoader</div>
       <div class="container">
         <div class="loader11">
           <div class="loader--dot"></div>
